@@ -1,0 +1,1 @@
+# Crypto-hacks-scams-data-2026
