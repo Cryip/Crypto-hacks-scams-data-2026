@@ -1,0 +1,26 @@
+Title,Chain,Funds Lost,Issue,Date,Source / Link,Quick Summary
+Social Engineering Scam,Other,"$282,000,000",Phishing,2026-01-10,,Victim lost $282M BTC and LTC through hardware wallet social engineering scam
+Truebit,Ethereum,"$26,500,000",Contract Vulnerability (Integer Overflow),2026-01-09,https://x.com/lookonchain/status/2009303499927154909,"Integer overflow in getPurchasePrice() exploited, 8,535 ETH stolen"
+SwapNet,"Ethereum, Base, Arbitrum, BSC","$16,800,000",Contract Vulnerability (Arbitrary Call),2026-01-26,https://x.com/PeckShieldAlert/status/2015608261119217671,Arbitrary call vulnerability exploited across multiple chains
+SagaEVM,SagaEVM,"$7,000,000",Unknown / Coordinated Attack,2026-01-21,https://x.com/Sagaxyz__/status/2014144936631738532,"Malicious contract deployments and cross-chain operations drained USDC, yUSD, ETH, tBTC"
+Makina Finance,Ethereum,"$5,000,000",Oracle Manipulation via Flash Loan,2026-01-20,https://x.com/PeckShieldAlert/status/2013468943193645085,"Flash loan used to manipulate oracle pricing, ~1,299 ETH stolen"
+Yo Yield,Ethereum,"$3,700,000",Extreme Slippage,2026-01-13,,Extreme slippage during Vault GHO-USDC swap caused $3.73M loss
+NYC Memecoin,Solana,"$3,400,000",Rug Pull,2026-01-13,,Rug pull after promotion by former NYC Mayor on social media
+TMX,Arbitrum,"$1,400,000",Contract Vulnerability,2026-01-06,https://x.com/certikalert/status/2008360565010559045,Unverified contract loop allowed minting and staking of LP tokens
+Arbitrum Proxy Contract,Arbitrum,"$1,500,000",Access Control Vulnerability,2026-01-05,https://x.com/CyversAlerts/status/2008100710483685488,"Proxy contract flaw exploited, funds bridged to Ethereum via Tornado Cash"
+IPOR USDC Fusion Optimizer,Arbitrum,"$336,000",Contract Vulnerability,2026-01-06,https://x.com/ipor_io/status/2008728627190321480,Missing validation exploited; funds later recovered by white-hat
+XPlayer,BSC,"$717,000",Flash Loan Attack,2026-01-28,,Flash loan exploited XPL token burn logic on PancakeSwap pool
+SynapLogic,Base,"$186,000",Access Control / Validation Failure,2026-01-20,https://x.com/Phalcon_xyz/status/2013439544595562898,Lack of parameter validation enabled whitelist manipulation
+Polycule (PMX Trading Bot),Polygon / Polymarket,"$230,000",Contract Vulnerability,2026-01-08,https://x.com/pmx_trade/status/2008997887678820862,"Trading bot exploited, user funds affected"
+Holdstation,BSC,"$192,000",Access Control,2026-01-28,,Access control flaw led to fund loss
+PGNLZ Token,BSC,"$100,000",Flash Loan / Burn Pair Exploit,2026-01-27,https://x.com/phalcon_xyz/status/2016154398817505595,"Reverse swap exploited burn pair mechanism, drained PGNLZ and USDT"
+HypurrFi,HyperEVM,"$84,000",Contract Vulnerability,2026-01-25,,Smart contract exploit drained protocol funds
+Valinity,Ethereum,"$63,000",Oracle Issue,2026-01-03,,Oracle pricing issue led to loss
+FutureSwap,Arbitrum,"$74,000",Reentrancy Attack,2026-01-14,https://x.com/phalcon_xyz/status/2011404828115866061,Reentrancy allowed excess LP token minting
+OLY Token Holders,BSC,"$63,400",Sandwich Attack,2026-01-05,https://x.com/TenArmorAlert/status/2007999080794833369,Sandwich attack on BSC caused user losses
+Solar (Solana_zh),Solana,,Account Compromise,2026-01-27,https://x.com/xueqiu88/status/2015990208471437490,Official X account suspected hacked
+Scroll,,,Account Compromise,2026-01-25,https://x.com/Scroll_ZKP/status/2014427453062524999,Co-founder X account compromised
+Mithril,,,Internal System Compromise,2026-01-21,https://x.com/paradex/status/2013819618499141651,"Trading bot systems breached, 57 user subkeys exposed"
+Darren Lau,,,X Account Hacked,2026-01-08,https://x.com/CertiKAlert/status/2009259852007190682,Social media account compromise
+Bitlight Labs,Bitcoin,,Account Compromise,2026-01-05,https://x.com/BitlightLabs,X account posted unauthorized meme token content
+HitBTC,,,Security Vulnerability,2026-01-04,https://x.com/SlowMist_Team/status/2007645571780358146,"Critical vulnerability disclosed, no response from exchange"
