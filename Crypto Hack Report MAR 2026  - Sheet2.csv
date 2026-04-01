@@ -1,0 +1,23 @@
+Project,Chain,Category,Issue Type,Funds Lost,Date
+Resolv Labs,Ethereum,Stablecoin,Improper Input Validation,"$25,000,000",03/22/2026
+Venus Protocol,BSC,Borrowing and Lending,Donation Attack,"$5,000,000",03/15/2026
+Aave V3,Ethereum,Borrowing and Lending,Oracle Issue,"$1,000,000",03/12/2026
+Solv Protocol,Ethereum,Staking,Protocol Logic,"$2,500,000",03/05/2026
+USDC Permit Signature,Ethereum,Other,Phishing,"$1,760,000",03/16/2026
+PancakeSwap (BCE-USDT),BSC,AMM,AMM Reserve Manipulation,"$679,000",03/23/2026
+dTRINITY,Ethereum,Lending,Deposit Inflation Attack,"$257,000",03/18/2026
+Curve Lend,Ethereum,Borrowing,Oracle Issue,"$240,000",03/02/2026
+Gondi,Ethereum,NFT,Contract Vulnerability,"$230,000",03/10/2026
+DBXen,Ethereum,Token,Logic Vulnerability,"$150,000",03/12/2026
+V4 Swap Router,Ethereum,Exchange,Access Control,"$42,000",03/03/2026
+Steakhouse Financial,—,Frontend,Social Engineering,—,03/31/2026
+Arf's official X account,—,Account Compromise,Account Compromised,0,03/31/2026
+unknown contract (Stake),BSC,Staking,Oracle Manipulation,"$133,000",03/27/2026
+Moonwell,Moonriver,Governance,Governance Attack,0,03/26/2026
+LiteLLM,—,Supply Chain,PyPI Supply Chain Attack,—,03/25/2026
+Neutrl,—,Frontend,DNS Hijacking,—,03/19/2026
+AM/USDT pool,BSC,AMM,Flash Loan Reserve Manipulation,"$131,000",03/12/2026
+BONKfun,—,Frontend,Social Engineering + Domain Hijacking,"$30,000",03/11/2026
+MT-WBNB LP,BSC,AMM,Burn Mechanism Manipulation,"$242,000",03/10/2026
+Inverse Finance,Ethereum,Borrowing,Price Manipulation Attack,"$240,000",03/02/2026
+Bitrefill,—,CeFi,Endpoint Compromise via Social Engineering,—,03/01/2026
