@@ -1,0 +1,54 @@
+Project,Chain,Category,Issue Type,Amount,Date
+Social Engineer Attack,Other,Other,Phishing,$282M,2026-01-10
+Step Finance,Solana,Treasury / Staking,Access Control / Supply Chain / Key Compromise,40M,2026-01-31
+Truebit,Ethereum,Verification,Price Manipulation / Unknown,~$26M,2026-01-08
+Resolv Labs,Ethereum,Stablecoin,Access Control / Input Validation,$25M,2026-03-22
+SwapNet,Multi-chain,Exchange,Contract Vulnerability / Approval Issue,~$17M,2026-01-26
+Blend Protocol,Stellar,Lending,Oracle Manipulation,~$10M,2026-02-22
+Saga / SagaEVM,Saga,L1,Minting / Unknown,$7M,2026-01-21
+Makina / Makinafi,Ethereum,DeFi,Flash Loan / Oracle Manipulation,~$4–5M,2026-01-20
+IoTeX,Ethereum,Bridge,Access Control / Private Key Leakage,~$4.4–8M,2026-02-21
+Yo Yield / YO Protocol,Ethereum,Yield,Slippage / Unknown,$3.7M,2026-01-13
+Aperture Finance,Ethereum,DeFi,Contract Vulnerability / Approval Issue,$3.67M,2026-01-25
+NYC Memecoin,Solana,Token,Rugpull,$3.4M,2026-01-13
+CrossCurve,Multi-chain,Bridge,Contract / Input Validation,~$3M,2026-02-02
+Solv Protocol,Ethereum,Staking,Contract / Logic Issue,~$2.5–2.7M,2026-03-05
+Venus Protocol,BSC,Lending,Oracle / Donation Attack,~$2–5M,2026-03-15
+Moonwell,Base,Lending,Oracle / Governance Attack,~$1.7M,2026-02
+TMX,Arbitrum,Exchange,Contract Vulnerability,$1.4M,2026-01-06
+Gyroscope,Ethereum,Bridge,Unknown,$807K,2026-01-30
+XPlayer,BSC,Token,Flash Loan Attack,$717K,2026-01-28
+BCE Token / PancakeSwap BCE-USDT,BSC,Token / DEX,Reserve Manipulation,$679K,2026-03-23
+Holdstation,Multi-chain,Smart Wallet,Access Control / Unknown,$192K–462K,2026-02
+Ploutos Money,Ethereum,DeFi,Rugpull,$388K,2026-02-26
+Fusion,Arbitrum,Yield,Access Control,$336K,2026-01-06
+dTRINITY,Ethereum,Lending,Flash Loan / Inflation Attack,$257K,2026-03-18
+Gondi,Ethereum,NFT,Contract Vulnerability,$230K,2026-03-10
+PMX,Polygon,Other,Unknown,$230K,2026-01-07
+SynapLogic,Base,Gaming,Contract Vulnerability,$186K,2026-01-20
+DBXen,Ethereum,DeFi,Logic / Access Control,$150K,2026-03-12
+LAXO Token,BSC,Token,Flash Loan Attack,$190K,2026-02-22
+SOF Token,BSC,Token,Flash Loan Attack,$248K,2026-02-14
+PGNLZ Token,BSC,Token,Flash Loan Attack,$100K,2026-01-27
+Valinity,Ethereum,Lending,Oracle Issue,$63K,2026-01-03
+Revert,Base,Yield,Unknown,$50K,2026-01-30
+V4 Swap Router,Ethereum,Exchange,Access Control,$42K,2026-03-03
+HypurrFi,HyperEVM,DeFi,Unknown,$84K,2026-01-25
+FOOMCASH,"Base, ETH",Gaming / Privacy DeFi,Contract Vulnerability,"$2,260,000",2.26.2026
+BONKfun,—,Frontend,Social Engineering + Domain Hijacking,"$30,000",03/11/2026
+AM/USDT pool,BSC,AMM,Flash Loan Reserve Manipulation,"$131,000",03/12/2026
+MT-WBNB LP,BSC,AMM,Burn Mechanism Manipulation,"$242,000",03/10/2026
+Aave V3,ETH,Borrowing and Lending,Oracle Issue,$ 1.0 Million,03/12/26
+Bitlight Labs,Bitcoin RGB,Infrastructure,Account Compromise,—,2026-01-05
+HitBTC,—,Exchange,Security Vulnerability,—,2026-01-04
+WLFI,—,Stablecoin,Social Engineering,—,2026-02-23
+Arbitrum Governance,—,Governance,Account Hacked,—,2026-02-03
+Solar (Solana Mandarin),—,Community,Account Compromise,—,2026-01-27
+Scroll,—,L2,Account Compromise,—,2026-01-25
+Mithril,—,Trading Bot,Unknown,—,2026-01-21
+Darren Lau (The Daily Ape),—,Media,Account Hacked,—,2026-01-08
+Steakhouse Financial,—,Infrastructure,DNS Hijack,—,2026-03-31
+Arf,—,Social Media,Account Compromise,$0,2026-03-27
+Neutrl,—,DeFi,DNS Hijacking,—,2026-03-19
+LiteLLM,—,Supply Chain,PyPI Attack,—,2026-03-25
+Bitrefill,—,Centralized Service,Social Engineering,—,2026-03-01
