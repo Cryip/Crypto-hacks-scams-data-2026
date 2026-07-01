@@ -1,0 +1,46 @@
+S.No,Project,Date,Loss,Chains,Classification,Technique,Programming Language
+1,Secret Network,2026-06-19 0:00:00,$4.67m,Secret,Protocol Logic,Unbacked Mint via ICS-20,Rust
+2,DIP,2026-06-17 0:00:00,111000,BSC,Protocol Logic,Transfer/Sell Logic Exploit,Solidity
+3,Little Boy Plus,2026-06-17 0:00:00,367000,BSC,Protocol Logic,Oracle Manipulation,Solidity
+4,Aztec Bridge,2026-06-17 0:00:00,$2m,Ethereum,Protocol Logic,escapeHatch Function Exploit,Solidity
+5,RetoSwap,2026-06-16 0:00:00,$2.7m,Monero,Protocol Logic,ACK Frontrun Attack,Java
+6,Thetanuts Finance,2026-06-15 0:00:00,105000,Ethereum,Protocol Logic,Low-Supply Share Pricing Hack,Solidity
+7,Raydium AMM,2026-06-10 0:00:00,$1.34m,Solana,Protocol Logic,Fake LP Mint Attack,Rust
+8,Asterix,2026-06-09 0:00:00,40000,Ethereum,Protocol Logic,DN404 Forge Loop,Solidity
+9,NovaBox,2026-06-09 0:00:00,107000,Ethereum,Protocol Logic,Dividend Snapshot Exploit,Solidity
+10,Token of Power,2026-06-09 0:00:00,$1.58m,Ethereum,Protocol Logic,Malicious Governance Proposal,Solidity
+11,Flooring Protocol,2026-06-08 0:00:00,0,Ethereum,Protocol Logic,DN404 Forge Loop,Solidity
+12,Humanity,2026-06-08 0:00:00,$32m,"Ethereum, BSC",Infrastructure,Private Key Compromised,Solidity
+13,Syscoin Bridge,2026-06-07 0:00:00,$8m,Syscoin,Protocol Logic,Fake Proof Exploit,Not Specified
+14,Ambient,2026-06-07 0:00:00,110000,Ethereum,Protocol Logic,Flashloan Accounting Logic Exploit,Solidity
+15,GPU.NET,2026-06-03 0:00:00,10600,Ethereum,Infrastructure,Social Engineering,Solidity
+16,ATM,2026-06-03 0:00:00,243500,BSC,Protocol Logic,Tax Logic Exploit,Solidity
+17,TSR,2026-06-01 0:00:00,$2.5m,BSC,Protocol Logic,Infinite Mint and Dump,Solidity
+18,Gnosis Pay,2026-06-01 0:00:00,0,Gnosis Chain,Protocol Logic,Zodiac Delay Module Exploit,Solidity
+19,JaredFromSubway,2026-06-20 0:00:00,7500000,Ethereum,Other,Other,Not Specified
+20,Polymarket,2026-06-25 0:00:00,3000000,Polygon,Other,Other,Not Specified
+21,Tessera DAO,2026-06-01 0:00:00,2400000,BSC,Other,Access Control,Not Specified
+22,Taiko,2026-06-21 0:00:00,1700000,"Ethereum, Other",Bridge,Other,Not Specified
+23,AIDCToken,2026-06-29 0:00:00,121001,BSC,Token,Other,Not Specified
+24,BYToken,2026-06-04 0:00:00,87400,BSC,Token,Flash Loan Attack,Not Specified
+25,Pepe Trump,2026-06-30 0:00:00,38499,BSC,Token,Rug Pull,Not Specified
+26,Lixir Finance,2026-06-24 0:00:00,12300,Ethereum,Protocol Logic,Broken EIP-2612 Permit Signature Verification,Solidity
+27,Yield Yak,2026-06-23 0:00:00,Not Disclosed,Avalanche,Infrastructure,Frontend Attack,Not Specified
+28,SecondFi,2026-06-23 0:00:00,2400000,Cardano,Infrastructure,Predictable Private Key Exploit,Not Specified
+29,Royal.io,2026-06-23 0:00:00,263000,Polygon,Protocol Logic,Reward Accounting Logic Exploit,Solidity
+30,Gitcoin,2026-06-21 0:00:00,Not Disclosed,Ethereum,Infrastructure,Frontend Attack,Not Specified
+31,Quicksilver Zone,2026-06-21 0:00:00,3500,Cosmos,Protocol Logic,Unchecked Proof Minting,Not Specified
+32,LABUBU/OLPC,2026-06-20 0:00:00,1100000,BNB Chain,Protocol Logic,Token Update Logic Vulnerability,Solidity
+33,Namada Shielded Pools,2026-06-19 0:00:00,600000,Namada,Protocol Logic,IBC Transfer Logic Exploit,Rust
+34,mySwap CL,2026-06-19 0:00:00,300000,Starknet,Protocol Logic,Smart Contract Vulnerability,Cairo
+35,JB,2026-06-19 0:00:00,50000,Ethereum,Protocol Logic,Flashloan Price Manipulation,Solidity
+36,Asterix Labs,2026-06-09 0:00:00,40000,Ethereum,Protocol Logic,DN404 Smart Contract Vulnerability,Solidity
+37,Haedal Vault,2026-06-09 0:00:00,915179,Sui,Protocol Logic,Cross-Version Logic Flaw,Move
+38,Flooring Protocol & BitmapPunks,2026-06-08 0:00:00,Not Disclosed,Ethereum,Protocol Logic,BT404/DN404 Ownership Logic Vulnerability,Solidity
+39,Ambient Finance,2026-06-08 0:00:00,110600,Ethereum,Protocol Logic,Accounting Logic Flaw,Solidity
+40,OpenMonero P2P,2026-06-08 0:00:00,62900,Monero,Infrastructure,Supply Chain Attack,Not Specified
+41,DTXT/USDT Liquidity Pair,2026-06-05 0:00:00,35041,BNB Chain,Protocol Logic,Business Logic Vulnerability,Solidity
+42,ApeBond,2026-06-03 0:00:00,3421,BNB Chain,Protocol Logic,Duplicate Pool ID Exploit,Solidity
+43,Jadoodoo X Account,2026-06-01 0:00:00,5000,X (Social Platform),Infrastructure,Social Engineering,Not Applicable
+44,TesseraDAO (TSR),2026-06-01 0:00:00,2400000,BNB Chain,Infrastructure,Private Key Leakage,Solidity
+45,ATOHook,2026-06-01 0:00:00,25000,Ethereum,Protocol Logic,Storage Slot Collision,Solidity
