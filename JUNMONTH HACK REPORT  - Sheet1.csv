@@ -42,5 +42,4 @@ S.No,Project,Date,Loss,Chains,Classification,Technique,Programming Language
 41,DTXT/USDT Liquidity Pair,2026-06-05 0:00:00,35041,BNB Chain,Protocol Logic,Business Logic Vulnerability,Solidity
 42,ApeBond,2026-06-03 0:00:00,3421,BNB Chain,Protocol Logic,Duplicate Pool ID Exploit,Solidity
 43,Jadoodoo X Account,2026-06-01 0:00:00,5000,X (Social Platform),Infrastructure,Social Engineering,Not Applicable
-44,TesseraDAO (TSR),2026-06-01 0:00:00,2400000,BNB Chain,Infrastructure,Private Key Leakage,Solidity
 45,ATOHook,2026-06-01 0:00:00,25000,Ethereum,Protocol Logic,Storage Slot Collision,Solidity
